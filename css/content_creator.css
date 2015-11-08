@@ -1,0 +1,24 @@
+input[type="text"] {
+  padding: 10px;
+  border: solid 1px #dcdcdc;
+  transition: box-shadow 0.3s, border 0.3s;
+  width: 50%;
+}
+textarea {
+  vertical-align: top;
+  padding: 10px;
+  border: solid 1px #dcdcdc;
+  transition: box-shadow 0.3s, border 0.3s;
+  width: 50%;
+  height: 75%;
+}
+input[type="text"],
+textarea:focus,
+textarea.focus {
+  border: solid 1px #707070;
+  box-shadow: 0 0 5px 1px #969696;
+  background-color: #F5FFFF;
+}
+input[type="submit"] {
+  width: 50%;
+}

@@ -1,0 +1,13 @@
+{
+"name": "OS", "description":["What is an Operating System?","Where would you use an OS?","Which are the most used OSes?"],
+ "children": [{
+  "name": "Process Management", "children": [{
+    "name": "Scheduling", "children": [{
+      "name": "RR" },{
+      "name": "SJF" },{
+      "name": "FCFS" }]},{
+    "name": "IPC" }]},{
+  "name": "Memory Management", "children": [{
+    "name": "Paging" },{
+    "name": "Segmentation" }]}]
+}

@@ -1,0 +1,63 @@
+{
+   "name":"VisualSlideShow | HackDuke'15",
+   "description":["Giving context, a big picture if you will, to powerpoint presentations",
+      "Jignesh, Dhaval, Rohit, Rahul" ],
+   "children":[
+      {
+         "name":"Inspiration",
+         "children":[
+            {
+               "name":"PowerPoint is boring",
+               "size":200
+            },
+            {
+               "name":"We need CONTEXT",
+               "size":200
+            }
+         ]
+      },
+      {
+         "name":"What it does?",
+         "size":200
+      },
+      {
+         "name":"How we built it?",
+         "children":[
+            {
+               "name":"Sunburst Charts",
+               "size":200
+            }
+         ]
+      },
+      {
+         "name":"Challenges",
+         "size":200
+      },
+      {
+         "name":"Accomplishments",
+         "children":[
+            {
+               "name":"Learning Web",
+               "size":200
+            },
+            {
+               "name":"Giving 20 hours",
+               "size":200
+            }
+         ]
+      },
+      {
+         "name":"What's next",
+         "children":[
+            {
+               "name":"Public Website",
+               "size":200
+            },
+            {
+               "name":"Aids for content creation",
+               "size":200
+            }
+         ]
+      }
+   ]
+}

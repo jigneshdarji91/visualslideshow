@@ -1,0 +1,25 @@
+{
+ "name": "flare","description": ["Hello there!", "What is LinkDistance?", "Why is it important?"],
+ "children": [
+  {
+   "name": "analytics","description": ["Hello there!", "What is LinkDistance?", "Why is it important?"],
+   "children": [
+    {
+     "name": "cluster","description": ["Hello there!", "What is LinkDistance?", "Why is it important?"],
+     "children": [
+      {"name": "AgglomerativeCluster", "size": 3938,"description": ["Hello there!", "What is LinkDistance?", "Why is it important?"]},
+      {"name": "CommunityStructure", "size": 3812,"description": ["Hello there!", "What is LinkDistance?", "Why is it important?"]},
+      {"name": "MergeEdge", "size": 743,"description": ["Hello there!", "What is LinkDistance?", "Why is it important?"]}
+     ]
+    },
+    {
+     "name": "graph","description": ["Hello there!", "What is LinkDistance?", "Why is it important?"],
+     "children": [
+      {"name": "BetweennessCentrality", "size": 3534,"description": ["Hello there!", "What is LinkDistance?", "Why is it important?"]},
+      {"name": "LinkDistance", "size": 5731,"description": ["Hello there!", "What is LinkDistance?", "Why is it important?"]}
+     ]
+    }
+   ]
+  }
+ ]
+}
