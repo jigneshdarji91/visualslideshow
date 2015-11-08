@@ -1,2 +1,2 @@
-# visualslideshow
-Visual SlideShow
+# sunburst
+Sunburst Visualisation Project
